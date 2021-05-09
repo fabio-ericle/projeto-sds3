@@ -1,5 +1,4 @@
 import axios from 'axios';
-import { type } from 'node:os';
 import { useState, useEffect } from 'react';
 import Chart from 'react-apexcharts';
 import { SaleSuccess } from 'types/sale';
